@@ -1,0 +1,52 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\_FORREST\Probe_Measure\Prj\simulation\modelsim
+T_opt
+V?N1O::bG9gj1Jc`gV22=62
+04 10 4 work Plastic_tb fast 0
+=1-408d5c4b0361-5b3ee598-320-13b60
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L cycloneiii_ver -L rtl_work -L work +acc
+n@_opt
+OE;O;10.1a;51
+vPlastic
+IhL[4>:7kl7lbeo30HCP@l2
+V[X>2h<3TgeYm42@af`UHi2
+Z1 dF:\_FORREST\Probe_Measure\Prj\simulation\modelsim
+w1530847617
+8F:/_FORREST/Probe_Measure/Prj/../Code/Plastic.v
+FF:/_FORREST/Probe_Measure/Prj/../Code/Plastic.v
+L0 10
+Z2 OE;L;10.1a;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@plastic
+Z4 !s92 -vlog01compat -work work +incdir+F:/_FORREST/Probe_Measure/Prj/../Code -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 F]5<am<B04N<m6U9G;_8Q2
+!s85 0
+!s108 1530848664.288000
+!s107 F:/_FORREST/Probe_Measure/Prj/../Code/Plastic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/_FORREST/Probe_Measure/Prj/../Code|F:/_FORREST/Probe_Measure/Prj/../Code/Plastic.v|
+vPlastic_tb
+IY<OWHXkjOcfR9LI<4mGK`1
+VKzMOSNbCJVa9oW8@L9knP1
+R1
+w1530848608
+8F:/_FORREST/Probe_Measure/Prj/../Code/Plastic_tb.v
+FF:/_FORREST/Probe_Measure/Prj/../Code/Plastic_tb.v
+L0 3
+R2
+r1
+31
+R3
+R4
+n@plastic_tb
+!i10b 1
+!s100 KooK9<fB`3g6:N`V<e>j=3
+!s85 0
+!s108 1530848664.468000
+!s107 F:/_FORREST/Probe_Measure/Prj/../Code/Plastic_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/_FORREST/Probe_Measure/Prj/../Code|F:/_FORREST/Probe_Measure/Prj/../Code/Plastic_tb.v|

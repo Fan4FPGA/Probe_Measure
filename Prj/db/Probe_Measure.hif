@@ -1,0 +1,67 @@
+Quartus II 64-Bit
+Version 9.1 Build 222 10/21/2009 SJ Full Version
+10
+721
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+altsyn.lmf
+-- Start Library Paths --
+bsf|
+code|
+code|pwm|
+test|my109_2010-10-20|my109|sram_16bit|hdl|
+tank_level_gauge_transmitters|
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+Plastic
+# storage
+db|Probe_Measure.(0).cnf
+db|Probe_Measure.(0).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+|_forrest|probe_measure|code|plastic.v
+ee742dc7dd32b9a9c4fd2dfaf442d214
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# hierarchies {
+|
+}
+# lmf
+d:|altera|91|quartus|lmf|altsyn.lmf
+bbbb84af4e7019201bb1fc50d2957c
+# macro_sequence
+WIDTH_L24'd1570000WIDTH22'd67MARK_WIDTH_L24'd1550000MARK_WIDTH22'd65detect_width32'd3200000workLED_width28'h5ffff00
+# end
+# complete
+
